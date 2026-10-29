@@ -1,0 +1,2 @@
+C:\Users\nadhe\.cache\codex-runtimes\codex-primary-runtime\dependencies\python\python.exe: No module named bandit.__main__; 'bandit' is a package and cannot be directly executed
+
